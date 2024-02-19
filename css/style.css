@@ -1,0 +1,59 @@
+body{
+background-image: url('/cards/DsBg3-zU8AAynzX.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+background-color: rgb(102, 102, 255);
+font-family: Arial;
+text-align: center;
+color: white;
+-webkit-text-stroke-width: 2px;
+-webkit-text-stroke: 2px rgba(0, 0, 0, 0.883);
+}
+
+img{
+width: 165px;  
+height: 200px;
+margin: 5px;
+}
+
+
+
+footer{
+text-shadow: 10px 7px 8px rgba(0, 0, 0, 0.922);
+-webkit-text-stroke: 3px rgb(255, 255, 255);
+-webkit-text-stroke-width: 1px;
+
+}
+
+button{
+height: 30px;
+
+}
+
+.hide{
+display: none;
+
+}
+
+span{
+text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.856);
+
+}
+
+h2{
+text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.856);
+
+}
+
+#res{
+text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.856);
+-webkit-text-stroke: 3px rgba(0, 0, 0, 0.584);
+-webkit-text-stroke-width: 2px; /* largura da borda */
+font-size: 30px;
+}
+
+div{
+font-size: 50px;
+
+}
